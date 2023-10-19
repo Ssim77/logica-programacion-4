@@ -6,6 +6,6 @@ function fibonnaci(num){
     fib[i]= fib[i-1]+fib[i-2]
 
   }
-   return fib[i]
+   return fib[num]
 
 }
